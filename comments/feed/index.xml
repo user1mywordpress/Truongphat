@@ -10,11 +10,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Clover	</title>
-	<atom:link href="http://localhost/minhtien/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://user1mywordpress.github.io/Tien</link>
+	Bình luận cho Trường Phát	</title>
+	<atom:link href="http://localhost/tien/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://user1mywordpress.github.io/Truongphat</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 20 Jul 2021 12:17:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Aug 2021 05:01:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>https://user1mywordpress.github.io/Tien/chao-moi-nguoi/#comment-1</link>
+		<link>https://user1mywordpress.github.io/Truongphat/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
-		<pubDate>Tue, 20 Jul 2021 12:17:06 +0000</pubDate>
-		<guid isPermaLink="false">https://user1mywordpress.github.io/Tien/?p=1#comment-1</guid>
+		<pubDate>Mon, 02 Aug 2021 05:01:06 +0000</pubDate>
+		<guid isPermaLink="false">https://user1mywordpress.github.io/Truongphat/?p=1#comment-1</guid>
 
 					<description><![CDATA[Xin chào, đây là một bình luận
 Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.
